@@ -1,5 +1,3 @@
-class B{
-  void info(){}
-  void process(){}
-  void info1(){}
+abstract class B{
+  void process();
 }
